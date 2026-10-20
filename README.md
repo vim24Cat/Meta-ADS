@@ -1,1 +1,1 @@
-# quiz-meta-ads.html
+# quiz-meta-ads
